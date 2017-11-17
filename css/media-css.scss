@@ -1,0 +1,354 @@
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+.logo-twitter{
+left: 87% !important;
+}
+.text-button-sign-up {
+  padding-left: 5% !important;
+}
+.nav-link {
+  font-size: 14px;
+}
+}
+@media screen and (max-width: 1200px) {
+.container {
+    width: 100%;
+}
+.header {
+width: 100%;
+}
+.navigation-nature {
+    width: 100%;
+}
+.navigation {
+    width: 100%;
+}
+.menu-home > .nav-link {
+font-family:ZurichBT,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+.nav-item {
+    margin-right: 20px !important;
+}
+.nav-link {
+    font-size: 15px;
+	font-family:ZurichBT,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+.content-point {
+    width: 69%;
+}
+.menu-gallery-style {
+    width: inherit;
+    margin-left: -10px;
+}
+#myTab {
+width: 100%;
+}
+.right-menu {
+width:31%;
+}
+.search-holidays-pointer {
+top: 28.4%;
+left: 57%;
+}
+.key-search {
+padding-top: 2%;
+}
+.text-search-holidays {
+padding: 5%;
+}
+.text-button-sign-up {
+padding: 5% 0 5% 15%;
+}
+.africa-asia:hover{
+width:30%;
+}
+.americas-australasia:hover{
+width:30%;
+}
+.anrarctika-europe:hover{
+width:30%;
+}
+.footer {
+    width: 98%;
+    margin-left: 10px;
+}
+.twitter-text > p.follow {
+font-family: KlavikaMedium,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+}
+@media screen and (max-width: 1024px) {
+
+
+.nav-link {
+    font-size: 13px;
+}
+.nav-item {
+    margin-right: 5px !important;
+}
+.menu-home > .nav-link{
+    font-size: 11px;
+}
+.content-point {
+    width: 96%;
+	border-radius: 10px 10px 10px 10px;
+}
+.menu-gallery-style {
+margin-left: 5%;
+}
+.under-picture {
+margin-left: 10%;
+}
+.under-picture-text{
+margin-left: 10%;
+}
+элемент {
+    height: 1030px;
+}
+.right-menu {
+    width: 100%;
+    margin-left: 0px;
+	height: auto !important;
+}
+.menu-search {
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(244, 242, 236) !important;
+    float: left;
+    width: 100%;
+}
+.menu-div {
+    float: left;
+    width: 51%;
+}
+.news-menu {
+    float: left !important;
+    width: 49%;
+    clear: none;
+	border-top: none;
+}
+.search-holidays-pointer {
+    top: 28.7%;
+    left: 22%;
+}
+.key-search {
+    padding-top: 1%;
+}
+.sign-up-menu {
+    border-top: none;
+}
+.twitter-text > p.follow {
+font-size: 13px;
+font-weight: 600;
+}
+.roster-links-2, .roster-links-3 {
+    margin-left: 10px;
+    float: left;
+}
+.small-text-link {
+    font-size: 11px;
+}
+}
+@media screen and (max-width: 980px) {
+
+.nav-item {
+    margin-right: 1px !important;
+}
+.call {
+    float: left;
+	margin-top:2%;
+}
+.nav-inline .nav-item {
+    display: block;
+}
+.destinations{
+margin-left: 1rem;
+}
+.nav-link {
+    font-size: 12px;
+}
+.under-call-menu {
+    float: left;
+}
+.road {
+    background-color: inherit;
+    padding-left: 3rem;
+    border-radius: 0;
+}
+.menu-gallery-style {
+    margin-left: 5%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+.gallery-picture {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+label {
+    margin: 10px;
+}
+.gallery-picture .controls {
+bottom: 30%;
+}
+.content-point { 
+    width: 96%;
+    border-radius: 10px 10px 10px 10px;
+    height: auto !important;
+}
+.photographer {
+width: 33.333333%;
+}
+.search-holidays-pointer{
+display:none;
+}
+.join-facebook {
+text-transform: none;
+}
+.twitter-text > p.follow {
+    font-size: 11px;
+}
+.logo-twitter {
+display:none;
+}
+.roster-links-3 {
+    margin-left: -1px;
+    float: left;
+}
+.africa-asia:hover{
+background:none !important;
+}
+.ancor-text-tabs:hover{
+color: rgb(68, 65, 55);
+}
+.picture-territory-one {
+background:none !important;
+}
+.picture-territory{
+background:none !important;
+}
+.americas-australasia, .anrarctika-europe:hover{
+background:none !important;
+}
+
+}
+@media screen and (max-width: 640px) {
+.photographer {
+    display:none;
+}
+.under-menu {
+    margin-left: -25px;
+	width:100% !important;
+}
+.gallery-picture .controls {
+    bottom: 1%;
+    left: 5%;
+}
+
+.footer-twitt{
+text-align:center !important;
+border-right:0px;
+}
+.footer-quick-links {
+text-align:center !important;
+}
+.roster-links {
+    float: left;
+    margin-left: 15%;
+}
+.footer-contact-us{
+text-align:center !important;
+}
+.holiday-text {
+    font-size: 14px;
+    font-weight: 400;
+}
+.africa-asia:hover{
+background: url(../image/sprite.gif) no-repeat;
+width: 100%;
+height: 100%;
+border:0;
+}
+.americas-australasia:hover{
+background: url(../image/sprite.gif) no-repeat;
+width: 100%;
+height: 100%;
+border:0;
+}
+.anrarctika-europe:hover{
+background: url(../image/sprite.gif) no-repeat;
+width: 100%;
+height: 100%;
+border:0;
+}
+
+}
+
+@media screen and (max-width: 480px) {
+.right-menu {
+    width: 104%;
+}
+.roster-links-3 {
+    margin-left: 30%;
+    float: left;
+}
+.text-logo-naturetour {
+left: 12%;
+font-size: 24px;
+}
+.text-spend-holidays{
+left: 12%;
+}
+.news-menu {
+display:none;
+}
+
+}
+@media screen and (max-width: 360px) {
+.contact-menu-one, .contact-menu-two {
+    margin-left: 0px;
+}
+.menu-home > .nav-link {
+    font-size: 11px;
+    display: block;
+    margin-left: 1rem;
+	margin-bottom:5%;
+}
+.menu-gallery-style{
+display:none;
+}
+.under-picture >h3{
+font-size:1.15rem;
+}
+
+.footer {
+    width: 98%;
+    margin-left: 10px;
+    margin-top: 5%;
+}
+.roster-links {
+    float: none;
+    margin-left: 0;
+	text-align:center;
+}
+.roster-links-2 {
+    float: none;
+    margin-left: 0;
+	text-align:center;
+}
+.roster-links-3 {
+    float: none;
+    margin-left: 0;
+	text-align:center;
+}
+.text-logo-naturetour {
+    left: 20%;
+    font-size: 24px;
+}
+.text-spend-holidays {
+    left: 20%;
+}
+
+}
